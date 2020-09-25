@@ -1,0 +1,5 @@
+cd ..
+cd ..
+pip freeze > requirements.txt
+@echo Results of the pip freeze command are now saved in requirements.txt file.
+timeout 5

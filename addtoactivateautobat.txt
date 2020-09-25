@@ -1,0 +1,5 @@
+cd ..
+cd ..
+py example.py
+pause
+cmd /k
