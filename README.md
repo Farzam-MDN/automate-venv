@@ -45,21 +45,21 @@ To make a 'requirements.txt' file for your environment, open 'autopipfreeze.bat'
 
 ## Contributing
 
-Feel free to fork and expand this project! Send a pull request if you would like to make direct contributions to this repository.
+Feel free to fork and expand this project! Send a pull request if you would like to add your code to the project.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/WozniakManiac/automate-venv/releases). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Farzam-MDN/JustShareKeys/releases). 
 
 ## Authors
 
-* **Farzam Madani** - *Creation of the repository and the scripts* - [WozniakManiac](https://github.com/WozniakManiac)
+* **Farzam Madani** - *Creation of the core application* - [Farzam-MDN](https://github.com/Farzam-MDN)
 
-See also the list of [contributors](https://github.com/WozniakManiac/automate-venv/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Farzam-MDN/JustShareKeys/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/WozniakManiac/automate-venv/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Farzam-MDN/JustShareKeys/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
